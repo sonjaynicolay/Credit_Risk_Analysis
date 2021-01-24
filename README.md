@@ -10,36 +10,36 @@ Credit risk is an unbalanced classification problem due to good loans highly out
 ## Results of the loan prediction risk analysis
 
 
-#### * Random Over Sampler
-#### *    Balanced Accuracy Score: .66
-#### *    Precision: High Risk: .01 Low Risk: 1.00
-#### *    Recall Scores: High Risk: .66 Low Risk: .67
+###  Random Over Sampler
+####    -Balanced Accuracy Score: .66
+####    -Precision: High Risk: .01 Low Risk: 1.00
+####    -Recall Scores: High Risk: .66 Low Risk: .67
 
-#### * Smote Oversampling
-#### *    Balanced Accuracy Score: .63
-#### *    Precision: High Risk: .01 Low Risk: 1.00
-#### *    Recall Scores: High Risk: .62 Low Risk: .64
+###  Smote Oversampling
+####    -Balanced Accuracy Score: .63
+####    -Precision: High Risk: .01 Low Risk: 1.00
+####    -Recall Scores: High Risk: .62 Low Risk: .64
 
-#### * Cluster Centroids
-#### *    Balanced Accuracy Score: .63
-#### *    Precision: High Risk: .01 Low Risk: 1.00
-#### *    Recall Scores: High Risk: .62 Low Risk: .41
+###  Cluster Centroids
+###      -Balanced Accuracy Score: .63
+####     -Precision: High Risk: .01 Low Risk: 1.00
+####     -Recall Scores: High Risk: .62 Low Risk: .41
 
-#### * SMOTEENN
-#### *    Balanced Accuracy Score: .64
-#### *    Precision: High Risk: .01 Low Risk: 1.00
-#### *    Recall Scores: High Risk: .70 Low Risk: .57
+###  SMOTEENN
+####     -Balanced Accuracy Score: .64
+####     -Precision: High Risk: .01 Low Risk: 1.00
+####     -Recall Scores: High Risk: .70 Low Risk: .57
 
-#### * Balanced Random Forest Classifier
-#### *    Balanced Accuracy Score: .66
-#### *    Precision: High Risk: .01 Low Risk: 1.00
-#### *    Recall Scores: High Risk: .66 Low Risk: .67
+### * Balanced Random Forest Classifier
+#### *    -Balanced Accuracy Score: .66
+#### *    -Precision: High Risk: .01 Low Risk: 1.00
+#### *   -Recall Scores: High Risk: .66 Low Risk: .67
 
-#### * Random Oversampler
-#### *    Balanced Accuracy Score: .66
-#### *    Precision: High Risk: .01 Low Risk: 1.00
-#### *    Recall Scores: High Risk: .66 Low Risk: .67
-### * 
+### * Random Oversampler
+#### *    -Balanced Accuracy Score: .66
+#### *    -Precision: High Risk: .01 Low Risk: 1.00
+#### *    -Recall Scores: High Risk: .66 Low Risk: .67
+ 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 ## Summary of the risk analysis
 
