@@ -40,9 +40,7 @@ Credit risk is an unbalanced classification problem due to good loans highly out
    #####     -Precision: High Risk: .01 Low Risk: 1.00
    #####     -Recall Scores: High Risk: .66 Low Risk: .67
  
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
+ 
 ## Summary of the risk analysis
+The results from each model are very similar, since the data is extremely unbalanced. Techinically, The Balanced Random Forest Classifier and the Random Oversampler have a slightly higher balanced accuracy score, so those models are the suggested models from this particular analysis. 
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
-Submission
